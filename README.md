@@ -20,3 +20,6 @@ al otro idioma. Primero reconoce el texto, después detecta el idioma, procede a
 y por último guarda la traducción en un archivo de texto. No funciona en tiempo real. Para que se 
 guarde correctamente la traducción se recomienda terminar el proceso después de terminar cada 
 traducción.
+
+Los archivos de texto incluidos son las pruebas de que el código de traduccion.py funciona 
+correctamente. Se anexa de igual forma un pdf de los textos utilizados para dicha función
