@@ -10,8 +10,8 @@ El código Prueba.py reconoce el texto en ingles y lo traduce a español en tiem
 imagen del video tarda varios segundos en aparecer (usando Raspberry Pi 4B - 2GB) y muestra
 el resultado de la traducción anterior.
 
-La presición del reconocimiento de texto en tiempo real no es fiable, los resultados obtenidos
-varian dependiendo de la  calidad de la cámara utilizada, la luz del entorno, el tipo y tamaño
+La presisión del reconocimiento de texto en tiempo real no es fiable, los resultados obtenidos
+varían dependiendo de la  calidad de la cámara utilizada, la luz del entorno, el tipo y tamaño
 de la letra del texto. En caso de querer reconocer texto escrito a mano se recomienda que esté
 escrito con pluma o plumón.
 
