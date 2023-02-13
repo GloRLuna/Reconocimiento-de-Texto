@@ -1,0 +1,1 @@
+La unidad central de procesamiento (CPU) ha sido diseñada por el fabricante para controlar y ejecutar instrucciones básicas para esa computadora en particular.
